@@ -16,7 +16,7 @@ int numberTwo = number % 10;
 // Console.WriteLine(numberTwo);
 
 if(numberOne > numberTwo)
-{
+{ 
     Console.WriteLine($"Наибольная цифра числа {number} - {numberOne}");
 }
 else 
