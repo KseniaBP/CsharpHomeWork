@@ -1,0 +1,15 @@
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\bin\Debug\net6.0\Task11.exe
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\bin\Debug\net6.0\Task11.deps.json
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\bin\Debug\net6.0\Task11.runtimeconfig.json
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\bin\Debug\net6.0\Task11.dll
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\bin\Debug\net6.0\ref\Task11.dll
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\bin\Debug\net6.0\Task11.pdb
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\Task11.csproj.AssemblyReference.cache
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\Task11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\Task11.AssemblyInfoInputs.cache
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\Task11.AssemblyInfo.cs
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\Task11.csproj.CoreCompileInputs.cache
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\Task11.dll
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\ref\Task11.dll
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\Task11.pdb
+C:\Users\besti\OneDrive\Рабочий стол\Csharp\Task11\obj\Debug\net6.0\Task11.genruntimeconfig.cache
