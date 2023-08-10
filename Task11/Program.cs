@@ -11,7 +11,6 @@ int numberOne = number / 100;
 // Console.WriteLine(numberOne);
 
 int numberThree = number % 10;
-//Console.WriteLine(numberThree);
+// Console.WriteLine(numberThree);
 
-Console.Write (numberOne);
-Console.Write (numberThree);
+Console.Write ($"{numberOne}{numberThree}");
