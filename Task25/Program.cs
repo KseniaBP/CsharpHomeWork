@@ -10,15 +10,14 @@ int number1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите второе число");
 int number2 = Convert.ToInt32(Console.ReadLine());
 
-int Exponent(int number, int mult)
+int ProductOfNumber(int a, int b)
 {
     int result = 1;
-    for (int i = 1; i <= mult; i++)
+    for (int i = 1; i <= b; i++)
     {
-        result = result * number;
+        result = result * a;
     }
     return result;
 }
 
-int exp = Exponent(number1, number2);
-Console.WriteLine(exp);
+Console.WriteLine($"Число {number1} в степени {number2} равно - {ProductOfNumber(number1, number2)}");
