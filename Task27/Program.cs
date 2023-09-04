@@ -6,22 +6,18 @@
 */
 
 Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
+int userNumber = Convert.ToInt32(Console.ReadLine());
 
-int SumNumber(int number)
+int SumOfNumber(int number)
 {
-    int count = Convert.ToString(number).Length;
-    int advance = 0;
-    int result = 0;
+    int sum = 0;
 
-    for (int i = 0; i < count; i++)
+    while (number > 0)
     {
-        advance = number - number % 10;
-        result = result + (number - advance);
+        sum += number % 10;
         number = number / 10;
     }
-    return result;
+    return sum;
 }
 
-int sumNumber = SumNumber(number);
-Console.WriteLine("Сумма цифр в числе равна " + sumNumber);
+Console.WriteLine($"Сумма цифр в числе {userNumber} равна {SumOfNumber(userNumber)}");
