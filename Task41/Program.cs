@@ -3,7 +3,7 @@
 1, -7, 567, 89, 223-> 3
  */
 
-Console.Write("Сколько чисел вы хотите ввести: ");
+Console.Write("Введите количество чисел: ");
 int length = Convert.ToInt32(Console.ReadLine());
 int[] userArray = FillArray(length);
 
@@ -40,4 +40,4 @@ void PrintArray(int[] arrayForPrint)
 }
 
 PrintArray(userArray);
-Console.WriteLine($"Вы ввели {CountElementsMoreThanZero(userArray)} чисел больше 0");
+Console.WriteLine($"Вы ввели {CountElementsMoreThanZero(userArray)} чисел,которые больше 0");
