@@ -9,7 +9,7 @@ int userNumber = Convert.ToInt32(Console.ReadLine());
 
 void PrintNumbers(int number)
 {
-    if (number != 0)
+    if (number >= 1)
     {
         Console.Write(number + " ");
         PrintNumbers(number - 1);
