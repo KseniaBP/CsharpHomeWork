@@ -9,10 +9,10 @@ int userNumberM = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
 int userNumberN = Convert.ToInt32(Console.ReadLine());
 
-int sum = SumMToN(userNumberM, userNumberN);
+int sum = SumNumbers(userNumberM, userNumberN);
 Console.WriteLine(sum);
 
-int SumMToN(int numberM, int numberN)
+int SumNumbers(int numberM, int numberN)
 {
     if (numberM == numberN) return numberM;
     else return numberM + SumMToN(numberM + 1, numberN);
