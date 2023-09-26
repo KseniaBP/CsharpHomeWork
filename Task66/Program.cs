@@ -15,5 +15,5 @@ Console.WriteLine(sum);
 int SumNumbers(int numberM, int numberN)
 {
     if (numberM == numberN) return numberM;
-    else return numberM + SumMToN(numberM + 1, numberN);
+    else return numberM + SumNumbers(numberM + 1, numberN);
 }
